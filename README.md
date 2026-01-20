@@ -1,0 +1,2 @@
+# ShadowX
+Lisence Shadowx
